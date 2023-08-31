@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Account\ here.\r\n\r\n\ @author\ Georgia\r\n\ @version\ 2/11\r\n
+comment1.params=ammount
+comment1.target=Account(int)
+comment1.text=\r\n\ Enter\ the\ ammount\ of\ money\ you\ have\ available\u0000\ to\ spend\r\n
+comment2.params=weaponinput
+comment2.target=void\ Weapon(int)
+comment3.params=healthinput
+comment3.target=void\ Health(int)
+comment4.params=strengthinput
+comment4.target=void\ strength(int)
+comment5.params=
+comment5.target=void\ Checkout()
+numComments=6
